@@ -1,5 +1,3 @@
-// src/middlewares/logger.js
-
 /**
  * Middleware de registro de peticiones.
  * Registra: método HTTP, URL solicitada, código de estado y tiempo de procesamiento.
